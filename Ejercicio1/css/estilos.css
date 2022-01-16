@@ -1,0 +1,26 @@
+body{
+    background: #264653;
+}
+h1{
+    color: #e9c46a;
+    text-align: center;
+}
+hr{
+    border: 2px inset #f4a261;
+    height: 1px; width: 100%;
+}
+a{color: #e76f51;}
+
+p{
+    color: #e76f51;
+    font-weight: bold;
+    background-color: #f2c75a;
+    padding: 20px 15px 10px 15px;
+    border: 10px solid #2a9d8f ;
+    /* margin-top: 40px;
+    margin-right:10px;
+    margin-bottom: 20px;
+    margin-left: 10px; */
+    margin: 40px 10px 20px 10px;
+    text-align: center;
+}
